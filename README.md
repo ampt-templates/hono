@@ -3,7 +3,7 @@
         <h1>Ampt + Hono (TypeScript) Template</h1>
     </div>
     <p align="center">
-        <img src="https://ampt.dev/public/templates/hono.png" alt="hono-logo" width="200"/>
+    <a href="https://hono.dev" target="_blank"><img src="https://ampt.dev/public/templates/hono.png" alt="hono-logo" width="200"/></a>
     </p>
 </p>
 

@@ -7,7 +7,7 @@ app.get("/hello", (c) => {
 });
 
 app.get("/greet/:name", async (c) => {
-  const name = c.req.param.name;
+  const name = c.req.param("name");
 
   if (!name) {
     return c.json({ message: "Missing route param for `name`!" }, 400);

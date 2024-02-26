@@ -1,0 +1,4 @@
+{
+  "postCreateCommand": "npm i @ampt/cli -g && ampt"
+}
+

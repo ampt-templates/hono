@@ -3,6 +3,4 @@
 /package-lock.json
 .amptrc
 .ampt*rc
-.devcontainer/
-.gitpod.yml
 .ampt/

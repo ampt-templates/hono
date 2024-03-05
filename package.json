@@ -6,16 +6,15 @@
   "main": "index.ts",
   "type": "module",
   "scripts": {
-    "start": "ampt"
+    "start": "ampt",
+    "gitpod:ampt": "./node_modules/.bin/ampt"
   },
   "dependencies": {
     "@ampt/sdk": "^1",
     "hono": "^3"
   },
   "ampt": {
-    "app": "hono"
-  },
-  "files": [
-    "*"
-  ]
+    "app": "",
+    "org": ""
+  }
 }
